@@ -61,3 +61,21 @@ Mindi = body shape
 Mindibo = fat / broad
 Mindiki = small
 Mindoto = normal
+
+North = Uilk
+East = Meemp
+South = Andrif
+West = Jewlump
+Left = Wangicle
+Right = Gipnar
+Forward = Ifmash
+Backward = Bitmump
+Reverse = Dooph
+
+Big = Dismoo
+Small = Huape
+Large = Bakume
+Little = Shramp
+Wide = Aquive
+Tall = Mish
+Short = Taaje
