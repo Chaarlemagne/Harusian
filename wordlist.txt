@@ -79,3 +79,5 @@ Little = Shramp
 Wide = Aquive
 Tall = Mish
 Short = Taaje
+
+Stucas: The concept of wanting something, but not enough to attempt to attain it
