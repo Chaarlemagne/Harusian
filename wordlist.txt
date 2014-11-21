@@ -30,6 +30,32 @@ Eighty _ = Groochakat _
 Ninety _ = Zilmadinkydoo _
 Hundred _ Goulyybuia _ (Three digits)
 
+WORDS REGARDING DATE OR TIME:
+Monday - garcason
+Tuesday - hebison
+Wednesday - marison
+Thursday - kumison
+Friday - sastison
+Saturday - wemeson
+Sunday - lirison
+
+Week - swatchi
+Night - hue
+Day - gra
+
+January = Kumbani
+February = Tilwajmeen
+March = Wateek
+April = Zunche
+May = Ugine
+June = Yeeped
+July = Ambrosche
+August = Faloon
+September = Pimpcroc
+October = Litzufe
+November = Dingargle
+December = Olkadeen
+
 PHRASES:
 Hor do fawl = god bless you
 Do sin üla =you're dumb
@@ -37,6 +63,8 @@ Hen schikak dor = go fuck yourself
 Kläv de trup = close the door
 Srog in ghas = bread and cheese
 Heri wen figuli = today was busy
+Shokeräd=thank you
+Szåköríöz Nylzän = good morning
 
 NOUNS:
 I = Min
@@ -81,6 +109,37 @@ Backward = Bitmump
 Reverse = Dooph
 Soto = shape
 Mindi = body shape
+pseumm = these threads to discuss the language
+fent = the book in which the language is recorded
+Gäshau: Word
+Bitecta: Moron (strong form)
+Toyå: Moron (regular form)
+Rain: Indeazz
+Computer: Khäkzme
+Book: Noülj
+College: Weizdadïm
+World: Dhooûfz
+Creationist: Iamizquazi
+Evolutionist: Uÿmizquazi 
+Tav: Ass
+Vîa: Hole
+Tavvîa: Asshole
+Kiksa: Internet
+Youtiô: Small war (can also mean battle)
+Klåüzjid: Big war
+Jadåd: Good family
+Bidja: Bad family
+Queirnöchit: Family (pejorative)
+Džats: Government
+Scuzoferd: Government (pejorative)
+Dradôt: Ocean, sea
+Mayaîm: Water
+Xanta: River
+Hfani: Music
+Eht: Art
+Âtubieb: Music (disparaging)
+Tÿ: other, more
+Ëuni: Penis
 
 VERBS:
 Malo = cry
@@ -88,6 +147,11 @@ Malu = laugh
 Stid = injury
 Somi = write
 Imbu = to work / study
+Vaât: To be
+Shënd: To want
+Veik: To make
+walk = zing
+run = zingzing
 
 ADJECTIVES: 
 Mindibo = fat / broad
@@ -102,10 +166,51 @@ Shramp = Little
 Aquive = Wide
 Mish = Tall
 Taaje = Short
+Ëuniotavvîanix: Gay (note: In ablative, this word has the same ending. Otherwise, it is regular.)
+O: in
+Shwan= Cool; Nice; Awesome
+Hungry - garumbi
+Thirsty - swilö
+Angry - hackum
+Tired - drööslig
+Sad - druurig
+Depressed - duwelend
+Happy - schwippli
+
+BODY PARTS:
+Hair = Filopi
+Eye/s = Gleg/as
+Nose = Rinor
+Ear/s = Klaur/as
+Mouth = Falnuta
+Teeth = Ertis
+Head = Owalu
+Neck = Varun
+Shoulder/s = Trinul/as
+Chest = Xafon
+Nipple/s = Bibis/as
+Belly = Fafun
+Bellybutton = Fafunol
+Hips = Tartas
+
+TITLES:
+Survoim = A person who was there at the creation of the Harusian language
+King = Baul
+Queen = Xift
+Prince = Awoon
+Princess = Awoondraf
+Dame = Liran
+Duke = Dinglar
+Duchess = Dingloun
+Jester = Werfill
+
 
 ORIGINAL PHRASES OR CONCEPTS:
-Stucas: The concept of wanting something, but not enough to attempt to attain it
-
+Stucas (ADJ) = The concept of wanting something, but not enough to attempt to attain it
+Schominto(ADJ) = if you absolutely love your family and are very close to them
+Mazuum(NOUN) = A tragedy that is passed down from generation to generation
+Kalagorm(ADJ) = when an object appears to have a face
+muyit(VERB) = to love someone more than yourself.
 
 OTHER IMPORTANT PARTS OF SPEECH:
 am - fyg 
@@ -123,5 +228,13 @@ there - pli
 how - iut
 much -kaanst
 many -tuk
+
+Uÿm-: Prefix negating the word
+Iam-: Prefix affirming the word
+
+Xän - added at the end of a sentence to make it interrogative
+Me'ka - added at the end of a sentence to turn it into a rhetorical question
+
+
 
 
