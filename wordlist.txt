@@ -1,4 +1,5 @@
 !!! Words to be put here !!!
+NUMBERS:
 Zero = Cisma'vui
 One = Shyyb
 Two = Kenqueck
@@ -29,12 +30,32 @@ Eighty _ = Groochakat _
 Ninety _ = Zilmadinkydoo _
 Hundred _ Goulyybuia _ (Three digits)
 
+PHRASES:
 Hor do fawl = god bless you
 Do sin üla =you're dumb
 Hen schikak dor = go fuck yourself
 Kläv de trup = close the door
 Srog in ghas = bread and cheese
 Heri wen figuli = today was busy
+
+NOUNS:
+I = Min
+You= Tin
+He= Fil
+She= Fili
+We= Min da
+You(plural)= Tin da
+They(male and female)= Fil da
+Friend = Tarch
+Boy = Salgen
+Girl = Zanzan
+Boyfriend = Salgentarch
+Girlfriend = Zanzantarch
+Man = Oog
+Woman = Markdo
+Guy = Lench
+Lady = Veljune
+Dude = Monsch
 table = lapoot
 bicycle = queckraka
 bisexual = queckfuka
@@ -48,20 +69,7 @@ walk = chaxontrra
 Bnaugh = black / night / dark
 Whame = white / milk
 Sint = light / day
-Malo = cry
-Malu = laugh
-Stid = injury
-Stidli = one who is injured
-Imbu = to work / study
-Imbuli = one who works / studies
 Soti = draw / line / graph
-Somi = write
-Soto = shape
-Mindi = body shape
-Mindibo = fat / broad
-Mindiki = small
-Mindoto = normal
-
 North = Uilk
 East = Meemp
 South = Andrif
@@ -71,13 +79,49 @@ Right = Gipnar
 Forward = Ifmash
 Backward = Bitmump
 Reverse = Dooph
+Soto = shape
+Mindi = body shape
 
-Big = Dismoo
-Small = Huape
-Large = Bakume
-Little = Shramp
-Wide = Aquive
-Tall = Mish
-Short = Taaje
+VERBS:
+Malo = cry
+Malu = laugh
+Stid = injury
+Somi = write
+Imbu = to work / study
 
+ADJECTIVES: 
+Mindibo = fat / broad
+Mindiki = small
+Mindoto = normal
+Stidli = one who is injured
+Imbuli = one who works / studies
+Dismoo = Big
+Huape = Small
+Bakume = Large
+Shramp = Little
+Aquive = Wide
+Mish = Tall
+Taaje = Short
+
+ORIGINAL PHRASES OR CONCEPTS:
 Stucas: The concept of wanting something, but not enough to attempt to attain it
+
+
+OTHER IMPORTANT PARTS OF SPEECH:
+am - fyg 
+are - pol
+is - goy
+
+why - liky
+where - aagbart
+who - data
+when - ithu
+what -kolp
+
+this - wlu
+there - pli
+how - iut
+much -kaanst
+many -tuk
+
+
